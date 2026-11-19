@@ -8,8 +8,12 @@ This is the one canonical home for the media behind Kayla's Notion wiki: the cov
 
 ## 🗄️ What's inside
 
-- **`assets/`** — 270 covers, inline headers, and icons for the wiki: chalkboards, CRT ghosts, sprout bulbs, the whole costume department.
-- **`nail-reels/`** — 18 nail inspo and tutorial reels, rescued from Facebook and embedded at full quality on their pages in 90 Intake.
+- **`assets/covers/`** — 52 page covers: chalkboards, skylines, the whole costume department.
+- **`assets/headers/`** — 141 inline headers, banners, and section strips.
+- **`assets/icons/`** — 60 page icons: CRT ghosts, sprout bulbs, and friends.
+- **`assets/dividers/`** — 13 divider strips.
+- **`assets/nail-reels/`** — 18 nail inspo and tutorial reels, rescued from Facebook and embedded at full quality on their pages in 90 Intake.
+- **`assets/misc/`** — 4 odds and ends that refused to be categorized.
 
 ## 🔗 How it's used
 
